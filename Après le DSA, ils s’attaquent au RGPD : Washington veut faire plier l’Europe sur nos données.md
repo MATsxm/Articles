@@ -1,3 +1,6 @@
+Article du 27 février 2026
+Marc-Antoine THEVENET
+
 # Après le DSA, ils s’attaquent au RGPD : Washington veut faire plier l’Europe sur nos données
 ![rgpd_dsa_washington_bordure_q80](https://hackmd.io/_uploads/r13RvlRdWl.jpg)
 *On lit souvent — y compris chez certains “experts” auto-proclamés — que le RGPD serait inefficace, trop complexe, voire contre-productif. Pourtant, quand on observe l’intensité et surtout la nature des attaques venues de Washington (en particulier sous l’administration Trump), on voit autre chose : si le RGPD était réellement inoffensif, personne ne déploierait une stratégie diplomatique et commerciale pour l’affaiblir.*
@@ -24,6 +27,8 @@ Fin 2025, Washington est allé plus loin : visa bans visant des Européens assoc
 
 Le message politique est limpide : “Régulez nos plateformes, et nous vous sanctionnons personnellement.” Ce premier front est important parce qu’il dévoile la méthode : délégitimer la régulation européenne en la requalifiant en atteinte aux libertés, puis s’autoriser à la combattre par la voie diplomatique (et parfois par la contrainte individuelle).
 
+---
+
 ### II - Deuxième front : le RGPD, désormais traité comme un “obstacle stratégique” à abattre
 C’est ici que l’on quitte (en apparence) le terrain de la modération des contenus pour entrer dans celui de la donnée : son contrôle, son transfert, sa monétisation, et la capacité d’un bloc politique à imposer ses standards.
 
@@ -43,6 +48,8 @@ Le rapport officiel du USTR (National Trade Estimate 2025) illustre ce cadre : i
 
 Ce n’est pas anodin : quand le régulateur commercial américain documente le RGPD comme point de friction, on comprend que la question dépasse la technique juridique. On est dans une conflictualité de puissance.
 
+---
+
 ### III - Le “mécanisme” de l’attaque : transformer une norme de droits fondamentaux en barrière commerciale
 Ce que l’on voit émerger, c’est une matrice classique de politique commerciale : traiter les normes européennes comme des barrières non tarifaires. Le rapport officiel du USTR (National Trade Estimate 2025) s’inscrit dans ce cadre général : il présente les “barrières” au commerce américain, y compris via les restrictions sur les flux de données et des exigences réglementaires jugées pénalisantes.
 
@@ -55,6 +62,8 @@ Le RGPD est particulièrement vulnérable à cette requalification pour trois ra
 **Troisièmement,** il est extraterritorial (article 3) : l’Europe ne “se contente plus de subir”, elle conditionne l’accès à son marché à un standard de protection.
 
 C’est précisément pour cela que l’attaque américaine ne vise pas seulement des procédures : elle vise la portée des règles.
+
+---
 
 ### IV - Pourquoi ces attaques “prouvent” que le RGPD fonctionne (même imparfaitement)
 #### - Parce que le RGPD touche le nerf économique : la donnée comme ressource industrielle
@@ -84,6 +93,8 @@ Le RGPD s’applique aussi à des entreprises non-européennes qui ciblent le ma
 
 C’est précisément ce point qui est insupportable pour une partie de l’écosystème américain : l’Europe ne se contente plus de subir, elle impose une règle d’accès à son marché basée sur les droits fondamentaux.
 
+---
+
 ### V - Le risque : qu’une “guerre du commerce” devienne une guerre contre les droits fondamentaux
 Là où je serai plus mordant (et plus inquiet), c’est sur le glissement suivant :
 
@@ -96,6 +107,8 @@ On met la pression (diplomatie, sanctions personnelles, menaces commerciales) ;
 Et on pousse l’Europe à “réformer” dans un sens : moins de contraintes, plus de transferts, plus de marge.
 
 Le danger est qu’une partie du débat européen finisse par internaliser cette grille : “il faut assouplir parce que l’Amérique s’énerve”. Or, les droits fondamentaux ne sont pas une variable d’ajustement d’un rapport de force commercial.
+
+---
 
 ### VI - Ce que l’Europe devrait répondre (sans naïveté, sans posture)
 #### - Tenir la ligne : le RGPD n’est pas “anti-américain”, il est pro-droits
@@ -112,7 +125,7 @@ Des acteurs comme noyb.eu alertent depuis des mois sur la fragilité structurell
 
 ---
 
-#### Conclusion : quand Washington attaque le RGPD, il confirme sa raison d’être
+### Conclusion : quand Washington attaque le RGPD, il confirme sa raison d’être
 Le DSA a été le premier champ de bataille : contenu, modération, “free speech”. Le RGPD devient le second : données, transferts, souveraineté, IA/cloud.
 
 Et au fond, il s’agit du même conflit : qui fixe les règles du numérique — et à quelles conditions les citoyens peuvent exister dans cet espace sans être réduits à une matière première.
@@ -125,4 +138,4 @@ On peut critiquer le RGPD pour ce qu’il est : perfectible, parfois lourd, parf
 
 ---
 
-#TiwazConsulting RGPD #GDPR #DSA #DMA #DigitalServicesAct #ProtectionDesDonnees #ViePrivee #LibertesFondamentales #EtatDeDroit #DroitsHumains #SouveraineteNumerique #DataSovereignty #DataLocalization #TransfertsDeDonnees #ChapitreV #SCC #DataPrivacyFramework #DPF #SchremsII #Cloud #IA #AI #Trump #Rubio #GouvernanceDesDonnees #Cybersecurite #RegulationNumerique #DigitalPolicy #Europe #UnionEuropeenne #USA #Geopolitique #CommerceInternational #Normes #Extraterritorialite #Accountability #CNIL #EDPB
+#TiwazConsulting #RGPD #GDPR #DSA #DMA #DigitalServicesAct #ProtectionDesDonnees #ViePrivee #LibertesFondamentales #EtatDeDroit #DroitsHumains #SouveraineteNumerique #DataSovereignty #DataLocalization #TransfertsDeDonnees #ChapitreV #SCC #DataPrivacyFramework #DPF #SchremsII #Cloud #IA #AI #Trump #Rubio #GouvernanceDesDonnees #Cybersecurite #RegulationNumerique #DigitalPolicy #Europe #UnionEuropeenne #USA #Geopolitique #CommerceInternational #Normes #Extraterritorialite #Accountability #CNIL #EDPB
