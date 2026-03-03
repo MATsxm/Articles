@@ -1,5 +1,6 @@
 # “Il y a des fuites donc le RGPD a échoué” : le sophisme préféré des démagos
-
+![rgpd_resilience_lt1mb](https://hackmd.io/_uploads/Hyug9Y4Fbl.jpg)
+---
 *On lit régulièrement — souvent avec une assurance inversement proportionnelle à la rigueur — que “le nombre de fuites prouve l’échec du RGPD”. C’est un raisonnement médiatique simple, donc séduisant, mais juridiquement faux.
 Le RGPD n’a pas été conçu comme un talisman anti-piratage. Il ne dit nulle part : “il n’y aura plus de violations de données”. Il part au contraire d’un constat adulte : dans un monde numérisé, interconnecté, sous-traité, cloudifié, les incidents arrivent. La question n’est pas seulement **comment les éviter**, mais surtout **comment réduire le risque en amont, encadrer ce qui est fait des données au quotidien**, et **protéger concrètement les individus quand ça tourne mal.**
 Autrement dit : le RGPD n’est pas un “texte anti-fuite”. C’est un texte de **gouvernance**, de **responsabilisation** (accountability), de **maîtrise des traitements**, de **discipline des transferts**, et de **réduction de l’impact** sur la vie des personnes.*
