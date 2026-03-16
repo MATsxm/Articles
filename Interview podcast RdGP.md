@@ -54,5 +54,19 @@ Et c’est exactement là que je veux en venir : la protection des données dép
 Dernier point souvent oublié : si on parle davantage de violations aujourd’hui, c’est aussi parce que le RGPD a imposé des mécanismes de documentation et de notification. Donc une partie de la visibilité actuelle est… un effet de transparence. On ne découvre pas forcément plus d’incidents : on les voit davantage, on les trace davantage, on les déclare davantage.
 
 Et je maintiens : “Confondre ‘il y a de plus en plus de leaks’ avec ‘le RGPD est inutile’, c’est du commentaire — pas de l’analyse.” »
+
+# 4. Sanctions — Est-ce qu’on a suffisamment sanctionné les organisations négligentes depuis 2018 ?
+
+« Ma réponse est factuellement : NON.
+Sur le terrain, on voit que beaucoup de responsables de traitement et de sous-traitants ne commencent à bouger sérieusement que maintenant, souvent sous la pression des violations, des leaks qui s’accumulent, des crises à répétition… et de la peur de “passer dans la presse”. Autrement dit : la pédagogie a existé, l’information a existé, l’accompagnement a existé — mais ça ne suffit plus.
+
+Je le dis sans vouloir “tirer sur la CNIL” : elle est, à mon sens, largement au-dessus de beaucoup d’autorités européennes en matière de doctrine, de sensibilisation, de ressources pratiques, d’accompagnement. Mais ça fait huit ans. À un moment, la prévention seule atteint sa limite. Il faut passer — hélas — à une phase de sanction plus intense, plus systématique, plus visible.
+
+Et pour moi, le vrai sujet n’est même pas uniquement le montant de l’amende. Sur le terrain, je le constate : un rappel à l’ordre et même une amende administrative, surtout quand elle est rare, ne suffisent plus à déclencher les arbitrages budgétaires et organisationnels. Ce qui déclenche les réactions, ce qui fait vraiment bouger une direction, c’est la dimension réputationnelle. Quand je parle de conformité comme levier concurrentiel, il faut ajouter l’envers : la non-conformité comme risque d’image, de confiance, de perte de partenaires, de clients, de marchés, de collaborateurs.
+Et là, il y a quelque chose qui me révolte : le fait que certaines sanctions soient aujourd’hui anonymisées. C’est quand même un comble dans un univers où le RGPD est censé structurer la responsabilité et la transparence. Désolé de le dire, mais quand des administrations ou des entreprises refusent de se conformer durablement, il est temps de les exposer.
+
+C’est déplorable d’en arriver là, mais le name & shame est aujourd’hui bien plus dissuasif qu’une amende administrative. Et contrairement à ce que certains imaginent — par ignorance des mécanismes — cela peut aussi concerner le secteur public, y compris collectivités et organismes publics. Parce qu’au final, la sanction la plus efficace, c’est souvent celle qui touche là où ça fait mal : la confiance. »
+ 
+
  
 
