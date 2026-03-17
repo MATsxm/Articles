@@ -66,6 +66,21 @@ Et pour moi, le vrai sujet n’est même pas uniquement le montant de l’amende
 Et là, il y a quelque chose qui me révolte : le fait que certaines sanctions soient aujourd’hui anonymisées. C’est quand même un comble dans un univers où le RGPD est censé structurer la responsabilité et la transparence. Désolé de le dire, mais quand des administrations ou des entreprises refusent de se conformer durablement, il est temps de les exposer.
 
 C’est déplorable d’en arriver là, mais le name & shame est aujourd’hui bien plus dissuasif qu’une amende administrative. Et contrairement à ce que certains imaginent — par ignorance des mécanismes — cela peut aussi concerner le secteur public, y compris collectivités et organismes publics. Parce qu’au final, la sanction la plus efficace, c’est souvent celle qui touche là où ça fait mal : la confiance. »
+
+# 5. Transferts hors UE — Cloud Act, Schrems II… les entreprises françaises assument vraiment, ou font-elles semblant ?
+
+Beaucoup d’organisations ne maîtrisent pas réellement leurs transferts : elles les “habillent” juridiquement.
+« Quand on parle de transferts hors Union européenne, on parle d’un truc très concret : où vont les données, qui peut y accéder, et sous quelles lois.
+•	Le Cloud Act (loi américaine) peut obliger certaines entreprises américaines — ou certaines filiales — à fournir des données aux autorités américaines, y compris si les données sont stockées en Europe, selon les cas et procédures.
+•	Schrems II, c’est une décision de la Cour de justice de l’Union européenne (2020) qui a rappelé : on ne peut pas transférer des données vers certains pays “comme si de rien n’était”. Il faut vérifier si, dans le pays de destination, les règles permettent réellement de protéger les personnes.
+Et là où beaucoup d’entreprises “font semblant”, c’est qu’elles se contentent parfois de signer des documents en se disant : “c’est bon, c’est réglé”.
+Le document typique, ce sont les SCC — Standard Contractual Clauses — en français clauses contractuelles types : ce sont des clauses “standard” approuvées par l’UE pour encadrer les transferts. C’est utile, mais pas suffisant si, dans la pratique, un accès par une autorité étrangère reste plausible.
+Depuis Schrems II, on attend aussi une analyse un peu plus sérieuse : cartographier les transferts, comprendre l’architecture, les accès d’admin, le support, la sous-traitance en chaîne… et parfois ajouter des mesures techniques (ex : chiffrement solide avec clés sous contrôle européen).
+Donc oui : certaines entreprises assument et font le travail. Mais beaucoup restent sur une conformité papier : elles ont des contrats, mais pas forcément la maîtrise réelle du risque. »
+
+“On voit encore trop de conformité documentaire et pas assez de conformité réelle.”
+ 
+
  
 
  
