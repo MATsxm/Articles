@@ -79,6 +79,37 @@ Depuis Schrems II, on attend aussi une analyse un peu plus sérieuse : cartograp
 Donc oui : certaines entreprises assument et font le travail. Mais beaucoup restent sur une conformité papier : elles ont des contrats, mais pas forcément la maîtrise réelle du risque. »
 
 “On voit encore trop de conformité documentaire et pas assez de conformité réelle.”
+
+# 6. ANSSI et CNIL — Elles jouent vraiment leur rôle ? Elles ont les moyens de leurs ambitions ?
+
+« Une fois de plus je ne vais pas me faire que des amis, mais je le dis franchement : je me refuse à tirer sur l’ambulance CNIL/ANSSI ; c’est peut-être ma nature optimiste qui parle.
+
+Oui, elles font le job — et même souvent remarquablement — mais on leur demande de tenir l’océan avec une cuillère. Le vrai sujet n’est pas “elles sont nulles”, c’est comment on organise une stratégie de montée en responsabilité des acteurs (entreprises, collectivités, administrations).
+
+Déjà, factuellement, elles bossent. Et elles bossent dans un contexte où la menace et les manquements explosent.
+•	Côté CNIL, on parle d’une autorité qui, en 2024, c’est 298 agents pour 28 M€ de budget. 
+Et elle croule sous la demande : 17 772 plaintes reçues en 2024. 
+Et côté incidents : 5 629 violations de données notifiées en 2024, +20 % en un an, avec une tendance très inquiétante : les violations “géantes” (plus d’un million de personnes) ont doublé d’environ 20 à environ 40 attaques réussies. 
+•	Côté ANSSI, en 2024, c’est 656 agents, 4 386 événements de sécurité traités (+15%), 1 361 incidents malveillants (+18%), et un budget affiché à 29,6 M€ hors masse salariale. 
+
+Donc oui, la question des moyens existe… mais elle est redondante partout dans l’État : éducation, justice, hôpital, services publics. Et pour la CNIL comme pour l’ANSSI, même si elles ne sont pas les plus mal loties en Europe, leurs moyens restent mécaniquement disproportionnés par rapport à l’ampleur de la tâche.
+
+Comparaison rapide (pour donner un ordre d’idée) :
+•	En Irlande, la Data Protection Commission avait une enveloppe 2024 d’environ 28,126 M€ et une montée d’effectifs de 210 à 251 agents sur l’année. 
+•	En Espagne, l’AEPD affiche un budget 2024 de 18,750 M€ (budget 2023 prorogé) et un budget définitif 2024 autour de 20,288 M€, avec 252 dotations de personnel en 2024. 
+•	Au Royaume-Uni, l’ICO est sur un autre périmètre (il gère aussi la liberté d’information, etc.) : son rapport 2023/24 mentionne £87,3m de dépenses. Donc comparaison à manier avec prudence. 
+
+Et j’ajoute un point important : le rapprochement CNIL / ANSSI n’était pas “évident” au départ — cultures différentes, missions différentes — mais ça s’améliore vraiment. La CNIL souligne elle-même qu’en 2024 elle a collaboré étroitement avec l’ANSSI (et d’autres) pour prévenir et limiter les impacts pour les personnes. 
+
+Maintenant, là où je mets mon “mais” : pour moi, la question n’est pas seulement celle des moyens. C’est aussi une question de stratégie et de signal.
+Parce que les premiers acteurs de la protection des données, ce ne sont ni la CNIL ni l’ANSSI. Ce sont les responsables de traitement : entreprises, collectivités, administrations. Et trop d’acteurs sont encore d’une légèreté inquiétante sur des fondamentaux.
+
+Donc oui : information, pédagogie, guides, accompagnement — le travail est remarquable.
+Mais au regard de l’augmentation des violations et de leur ampleur, il est temps de taper du poing sur la table : quand la négligence devient systémique, la sanction devient un outil de politique publique, pas une “méchanceté administrative. »
+
+« La CNIL et l’ANSSI ne peuvent pas être les pompiers permanents d’organisations qui laissent traîner des bidons d’essence. »
+ 
+
  
 
  
