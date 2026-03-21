@@ -108,6 +108,36 @@ Donc oui : information, pédagogie, guides, accompagnement — le travail est re
 Mais au regard de l’augmentation des violations et de leur ampleur, il est temps de taper du poing sur la table : quand la négligence devient systémique, la sanction devient un outil de politique publique, pas une “méchanceté administrative. »
 
 « La CNIL et l’ANSSI ne peuvent pas être les pompiers permanents d’organisations qui laissent traîner des bidons d’essence. »
+
+# 7. Maturité terrain — 8 ans après le RGPD, quel est ton diagnostic honnête sur la sécurité réelle des organisations en France ?
+
+Pour moi, c’est le cœur du problème : la sécurité réelle est globalement mauvaise — parfois catastrophique — et on continue trop souvent à traiter cybersécurité + protection des données comme une charge, une contrainte alors que c’est un levier de confiance et de croissance.
+
+« Si je dois être brutalement honnête : la sécurité réelle des organisations en France est plus qu’insuffisante. Il y a des exceptions, évidemment — des poches d’excellence — mais le niveau moyen, sur le terrain, reste vraiment inquiétant par manque de prise de conscience et d’investissement.
+On le voit dans les chiffres, et ce ne sont pas des impressions :
+•	5 629 violations de données notifiées à la CNIL en 2024, soit +20% en un an ; et surtout, le nombre de violations touchant plus d’un million de personnes a doublé. 
+•	Cybermalveillance.gouv.fr parle d’une année 2024 marquée par un nombre record de violations, avec 423 021 demandes d’assistance et une hausse très nette des demandes liées aux violations de données personnelles (+82%).
+•	Côté ANSSI, on est sur 4 386 événements de sécurité traités en 2024 (+15%) : la menace se massifie, et les fondamentaux ne suivent pas partout. 
+
+Et le plus frustrant, c’est pourquoi on en est encore là : dans beaucoup d’organisations — entreprises, collectivités, administrations — la sécurité et la protection des données sont encore vues comme une contrainte ou un coût. Alors que dans la vraie vie, c’est aussi un levier de croissance (confiance, différenciation), et un levier d’économies (éviter l’incident, l’arrêt d’activité, la gestion de crise, la perte réputationnelle, la fuite de clients, etc.). »
+
+« Et je vais même aller plus loin : il y a un problème d’hygiène numérique de base, très en amont.
+Moi j’enseigne en Master à l’université… et je suis souvent horrifié par le niveau d’hygiène numérique des étudiants, futurs professionnels. Dans mon cours “protection des données”, je dois régulièrement consacrer du temps à reprendre des bases comme les mots de passe robustes, la double authentification, le réflexe de ne pas cliquer, l’esprit critique, les sauvegardes…
+Comment voulez-vous que des professionnels fassent bien en entreprise si, à la sortie des études, certains ne savent même pas expliquer ce qu’est une sauvegarde, ni des principes simples comme une stratégie type “3 copies / 2 supports / 1 hors-ligne / 0 erreur vérifiée” ?
+
+De la même manière que je suis convaincu qu’il faut intégrer une vraie éducation financière dès l’école (les jeunes ne savent même pas ce qu’est un budget), je pense qu’on doit faire de l’éducation à l’hygiène numérique et à la sécurité informatique un prérequis, au même titre que lire, écrire, compter.
+Et ce n’est pas théorique : je l’ai vu fonctionner sur le terrain, notamment dans les îles. Quand j’intervenais en classe auprès d’élèves d’environ 12 ans, l’effet était démultiplié… parce qu’ils rentraient chez eux et “reforma(i)ent” leurs propres parents : mots de passe, réflexes avant de cliquer, sauvegardes, bon sens numérique. Une petite graine à l’école, et ça remonte toute la chaîne familiale.
+
+le Baromètre du numérique montre que 36% des Français rencontrent des freins dans leurs usages, et qu’une part non négligeable déclare un manque de confiance dans ses compétences numériques (jusqu’à 15% chez les 18–24 ans dans l’infographie).
+Donc oui, je fais parfois la blague : je suis un “vieux schnock” qui a connu Altavista et le Macintosh en 84 (merci papa)… et je vois des jeunes nés avec un smartphone qui ont parfois moins de culture sécurité que leurs parents. Ça devrait tous nous alerter. »
+
+« Et c’est là que je reviens au fond : les premiers acteurs de la protection des données, ce ne sont ni la CNIL ni l’ANSSI. Ce sont les organisations elles-mêmes.
+La pédagogie, les guides, l’accompagnement : CNIL et ANSSI font un travail remarquable. Mais vu l’ampleur des violations et leur hausse, il faut aussi un changement de posture côté acteurs terrain : arrêter la conformité cosmétique, arrêter la sécurité “au rabais”.
+Et oui : à un moment, quand la négligence devient structurelle, la sanction devient un outil de pilotage, pas une vengeance. »
+
+« Tant que la cybersécurité et le RGPD seront perçus comme un poste de dépense, on continuera à payer… mais en crises. »
+ 
+
  
 
  
