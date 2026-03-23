@@ -137,7 +137,7 @@ Et oui : à un moment, quand la négligence devient structurelle, la sanction de
 
 « Tant que la cybersécurité et le RGPD seront perçus comme un poste de dépense, on continuera à payer… mais en crises. »
  
-8. Conclusion 
+# 8. Conclusion 
 
 « Si je devais résumer ma position en une phrase, je dirais ceci : le RGPD n’a pas échoué, il a surtout révélé à quel point notre économie numérique s’était construite dans la désinvolture.
 Et aujourd’hui, le vrai enjeu n’est pas de se demander si le texte est trop dur ou trop contraignant. Le vrai enjeu, c’est de savoir si l’on accepte enfin que la donnée personnelle, la sécurité des systèmes et les libertés individuelles ne sont pas des variables d’ajustement. »
