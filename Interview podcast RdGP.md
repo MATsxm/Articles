@@ -53,7 +53,7 @@ Et c’est exactement là que je veux en venir : la protection des données dép
 
 Dernier point souvent oublié : si on parle davantage de violations aujourd’hui, c’est aussi parce que le RGPD a imposé des mécanismes de documentation et de notification. Donc une partie de la visibilité actuelle est… un effet de transparence. On ne découvre pas forcément plus d’incidents : on les voit davantage, on les trace davantage, on les déclare davantage.
 
-Et je maintiens : “Confondre ‘il y a de plus en plus de leaks’ avec ‘le RGPD est inutile’, c’est du commentaire — pas de l’analyse.” »
+> Et je maintiens : “Confondre ‘il y a de plus en plus de leaks’ avec ‘le RGPD est inutile’, c’est du commentaire — pas de l’analyse.” »
 
 # 4. Sanctions — Est-ce qu’on a suffisamment sanctionné les organisations négligentes depuis 2018 ?
 
